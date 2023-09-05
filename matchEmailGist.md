@@ -16,7 +16,7 @@ Email validation is a comon task in Web Development, and having a solid understa
 - Boundaries
 - Back-references
 - Look-ahead and Look-behind
-- [Author](##Author) 
+- [Author](#Author)
 
 ## Regex Components
 
@@ -82,6 +82,7 @@ Square brackets `[]` define character sets. For example `[a-z\.]` matches lowerc
 Quantifiers (`+`) are greedy by default, meaingn they try to match as much as possible. Adding `?` after a quantifier (like `+?`) makes it lazy, so it matches as little as possible. We use this for efficient matching.
 
 ## Author
+<a name="Author"></a>
 Nate Kester
 
 Nate Kester lives in Utah and is a student of the EdX full stack web Development bootcamp working on thereafter getting a job in Web Deveopment. The following is link to the author's GitHub:
